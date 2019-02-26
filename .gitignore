@@ -105,7 +105,8 @@ datasets/*.*
 datasets/*/
 output/*
 !output/imgs
-
+.DS_Store
+._.DS_Store
 check/
 rgb/
 test_f/
